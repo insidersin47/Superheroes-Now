@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Superheroes Now" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          
         </p>
+<a href="https://www.dynamicsartsin.com/2021/11/why-mj-not-die-in-spider-man-no-way-home-movie-explanation.html>Reason why MJ wouldn't die in Spider-Man: No Way Home?</a>
       </main>
 
       <Footer />
